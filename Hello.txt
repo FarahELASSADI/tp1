@@ -1,2 +1,3 @@
 test de TP
 modification du fichier pour la question 2.c.
+modif pour la questioon 3A
